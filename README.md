@@ -1,4 +1,3 @@
-# fop_2020_course
 Foundations of Programming course at MIPT for intermediate 1st degree students.
 
 # Foundations of Programming Course 2019
@@ -10,9 +9,11 @@ Nothing available
 - [Google Sheets]()
 
 ## List of students
-Please write your name, email, telegram and yandex.contest login here: [link](https://docs.google.com/spreadsheets/d/1i5lX0RsZ7ZsYQe22W-aa1WIckMBYvqBhVW5eWU5L-wY/edit?usp=sharing)
+Please write your name, email, telegram and yandex.contest login here: [link](https://docs.google.com/forms/d/e/1FAIpQLSddscZxsndjqOcwEuoiHLbiNsZ9aM_rTkqi2wgGa8fWNFmaLw/viewform)
 
 
+
+# Retro (legacy)
 ## Materials 
 Textbook – **Programming: Principles and Practice Using C++, Second Edition** (Bjarne Stroustrup)
 
